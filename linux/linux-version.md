@@ -1,6 +1,6 @@
-**Check Linus Version**
+### **What Linux are you running?**
 
-There a few ways to do this.
+A few ways to do this, which one do you prefer?
 
 $ lsb_release -a
 
